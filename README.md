@@ -3,7 +3,7 @@ Here is the summary of Cybersecurity Web Vulnerability Analysis (Lab 1 &amp; Lab
 
 This project focuses on identifying hidden vulnerabilities within HTML files in two separate lab environments. The tasks simulate real-world Capture The Flag (CTF) challenges and web-based security assessments where the objective is to analyze source code, detect hidden clues, and uncover flags. The project is divided into Lab 1 and Lab 2, each using extracted folders containing multiple HTML documents arranged across different levels.
 
-📁 Lab 1 — HTML Source Code Vulnerability Discovery
+📁 Lab 1 — HTML Source Code Vulnerability Discovery.
 
 In Lab 1, the extracted project folder contains two directories: “Topic 2 Lab 2” and “ctf.” The initial task is performed inside the Topic 2 Lab 2 directory. The objective is to manually inspect HTML files to locate hidden vulnerabilities or embedded flags.
 
@@ -16,7 +16,7 @@ By systematically checking all the files, one specific HTML file was identified 
 
 This file contained a hidden flag inside the HTML structure, revealing an embedded vulnerability. The discovery illustrates how sensitive information can be unintentionally exposed in deeply nested directories, emphasizing the importance of secure coding practices and regular code audits.
 
-📁 Lab 2 — Multi-Level CTF Web Vulnerability Challenge
+📁 Lab 2 — Multi-Level CTF Web Vulnerability Challenge.
 
 Lab 2 focuses entirely on the “ctf” folder. Inside this directory, a main HTML file contains multiple hyperlinks leading to Levels 1 through 5. Each level represents a unique vulnerability assessment challenge.
 
